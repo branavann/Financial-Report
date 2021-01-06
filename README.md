@@ -5,7 +5,7 @@ In this project, I simulated the responsibilities of a data visualization develo
 * The actual vs. estimated earnings per share for the four quarters in 2017 
 * A comparison of the Netflix Stock price vs the Dow Jones Industrial Average price in 2017 
 
-During this project, I will analyze, prepare, and plot data. The intention behind this project is to provide visualizations that will aid the financial analysts asses the risk of the Netflix stock.
+During this project, I will analyze, prepare, and plot data. The intention behind this project is to provide visualizations that will aid the financial analysts assess the risk of the Netflix stock.
 
 Project Skills:
 
